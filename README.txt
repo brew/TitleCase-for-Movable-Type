@@ -1,7 +1,7 @@
 ﻿Title Case for Movable Type
 http://www.lowest-common-denominator.com/2008/05/title_case_for_movable_type.php
 
-Brook Elgie <brew@lowest-common-denominator.com>
+Brook Elgie
 Version 1.1
 
 Title Case for Movable Type is an MT enabled version of John Gruber's Title Case.
