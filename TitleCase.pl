@@ -5,7 +5,7 @@
 # Release 1.1
 # 23nd May 2008
 #
-# This MT version: Brook Elgie <brew@lowest-common-denominator.com>
+# This MT version: Brook Elgie <hi@lowest-common-denominator.com>
 # http://www.lowest-common-denominator.com/2008/05/title_case_for_movable_type.php
 #
 # Original Perl version: John Gruber
